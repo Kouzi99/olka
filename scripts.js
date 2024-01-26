@@ -4,7 +4,7 @@ const products = [
     {
     name: 'dress',
     price: 150,
-    photoLink: '/foto/7.jpg',
+    photoLink: './foto/7.jpg',
     },
     {
     name: 'skirt',
