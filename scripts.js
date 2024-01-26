@@ -5,27 +5,27 @@ const products = [
     name: 'dress',
     price: 150,
     size: 'Large',
-    photoLink: '../foto/7.jpg',
+    photoLink: '/foto/7.jpg',
     },
     {
     name: 'skirt',
     price: 80,
-    photoLink: '../foto/8.jpg',
+    photoLink: '/foto/8.jpg',
     },
     {
     name: 'dress',
     price: 160,
-    photoLink: '../foto/9.jpg',
+    photoLink: '/foto/9.jpg',
     },
     {
     name: 'dress',
     price: 120, 
-    photoLink: '../foto/10.jpg',
+    photoLink: '/foto/10.jpg',
     },
     {
     name: 'dress',
     price: 140,
-    photoLink: '../foto/11.jpg',
+    photoLink: '/foto/11.jpg',
     },    
     ];
 //display product details
